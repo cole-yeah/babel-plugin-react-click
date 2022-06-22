@@ -1,0 +1,27 @@
+{
+  "name": "babel-plugin-react-click",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/core": "^7.18.5",
+    "@babel/traverse": "^7.18.5",
+    "babel-plugin-syntax-jsx": "^6.18.0"
+  },
+  "devDependencies": {
+    "@babel/types": "^7.18.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cole-yeah/babel-plugin-react-click.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cole-yeah/babel-plugin-react-click/issues"
+  },
+  "homepage": "https://github.com/cole-yeah/babel-plugin-react-click#readme"
+}
