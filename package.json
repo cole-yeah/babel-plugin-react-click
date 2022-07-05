@@ -9,7 +9,8 @@
     "babel-plugin-syntax-jsx": "^6.18.0"
   },
   "devDependencies": {
-    "@babel/types": "^7.18.4"
+    "@babel/types": "^7.18.4",
+    "@types/node": "^18.0.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
